@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/traefik:1.7.14
+FROM traefik:1.7.14
 
